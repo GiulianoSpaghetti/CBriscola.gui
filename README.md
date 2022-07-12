@@ -1,2 +1,2 @@
 # CBriscola.gui
-Project Franco: la CBriscola Grafica
+la CBriscola Grafica
